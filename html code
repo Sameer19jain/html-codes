@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="sameer.css">
+<html>
+<title> miet college </title>
+<body>
+
+<h1> hey guys welcome to my youtube channel</h1>
+<p> hello welcome to my page.</p>
+
+<marquee> <b> this is just a welcome page </b> </marquee>
+<marquee> <i> hi i would like to be friends with you </i></marquee>
+<marquee> <u> hahahah you're just a fool </u></marquee>
+<img src="pic_trulli.jpg" >
+<img src="test2.jpg">
+<br>
+<h2>
+<a href="https://www.youtube.com" target = " blank">this is a link </a>
+</h2>
+
+</body>
+</html>
